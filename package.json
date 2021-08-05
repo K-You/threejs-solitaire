@@ -1,5 +1,5 @@
 {
-  "name": "mmo-threejs",
+  "name": "threejs-solitaire",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
@@ -12,5 +12,17 @@
   "dependencies": {
     "dat.gui": "^0.7.7",
     "three": "^0.128.0"
-  }
+  },
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K-You/threejs-solitaire.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K-You/threejs-solitaire/issues"
+  },
+  "homepage": "https://github.com/K-You/threejs-solitaire#readme",
+  "description": ""
 }
